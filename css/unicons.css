@@ -421,7 +421,7 @@
 .uil-dollar-sign:before { content: '\e96b'; } /* '' */
 .uil-down-arrow:before { content: '\e96c'; } /* '' */
 .uil-download-alt:before { content: '\e96d'; } /* '' */
-.uil-dribbble:before { content: '\e96e'; } /* '' */
+/* .uil-dribbble:before { content: '\e96e'; } '' */
 .uil-drill:before { content: '\e96f'; } /* '' */
 .uil-dropbox:before { content: '\e970'; } /* '' */
 .uil-dumbbell:before { content: '\e971'; } /* '' */
@@ -1052,7 +1052,8 @@
 .uil-windsock:before { content: '\ebe2'; } /* '' */
 .uil-wrench:before { content: '\ebe3'; } /* '' */
 .uil-yellow:before { content: '\ebe4'; } /* '' */
-.uil-yen-circle:before { content: '\ebe5'; } /* '' */
-.uil-yen:before { content: '\ebe6'; } /* '' */
-.uil-youtube-alt:before { content: '\ebe7'; } /* '' */
-.uil-youtube:before { content: '\ebe8'; } /* '' */
+/* .uil-yen-circle:before { content: '\ebe5'; } '' */
+/* .uil-yen:before { content: '\ebe6'; } '' */
+
+/* .uil-youtube-alt:before { content: '\ebe7'; } '' */
+/* .uil-youtube:before { content: '\ebe8'; } '' */

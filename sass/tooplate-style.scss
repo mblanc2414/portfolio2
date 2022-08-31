@@ -45,7 +45,9 @@ body {
     border-radius: 50px;
     letter-spacing: 0.2px;
 }
-
+.skills {
+	text-align:center;
+}
 ul {
 	margin: 0;
 	padding: 0;
@@ -94,6 +96,8 @@ h2 {
 	color: $h2-font-color;
 	font-size: $h2-font-size;
 	font-weight: $font-weight-bold;
+	// text-align: center;
+	
 }
 
 h3 {
